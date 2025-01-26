@@ -1,0 +1,10 @@
+^C:\CODE\FLUTTER\OEFENEN\1\NAVBAR\NAVBAR_PROJECT\BUILD\WINDOWS\X64\CMAKEFILES\6B86E125F223AFBDF57C307B3E869FAD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Code/Flutter/oefenen/1/navbar/navbar_project/windows -BC:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/navbar_project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

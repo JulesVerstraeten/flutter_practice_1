@@ -1,0 +1,10 @@
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

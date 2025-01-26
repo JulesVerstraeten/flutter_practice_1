@@ -1,0 +1,28 @@
+^C:\CODE\FLUTTER\OEFENEN\1\NAVBAR\NAVBAR_PROJECT\BUILD\WINDOWS\X64\CMAKEFILES\F8BDF44AB34CAF32D66624E21323C8E7\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\jules\AppData\Local\flutter PROJECT_DIR=C:\Code\Flutter\oefenen\1\navbar\navbar_project FLUTTER_ROOT=C:\Users\jules\AppData\Local\flutter FLUTTER_EPHEMERAL_DIR=C:\Code\Flutter\oefenen\1\navbar\navbar_project\windows\flutter\ephemeral PROJECT_DIR=C:\Code\Flutter\oefenen\1\navbar\navbar_project FLUTTER_TARGET=C:\Code\Flutter\oefenen\1\navbar\navbar_project\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Code\Flutter\oefenen\1\navbar\navbar_project\.dart_tool\package_config.json C:/Users/jules/AppData/Local/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\CODE\FLUTTER\OEFENEN\1\NAVBAR\NAVBAR_PROJECT\BUILD\WINDOWS\X64\CMAKEFILES\84053527C5B63AF83CF9BC963BE691EE\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\CODE\FLUTTER\OEFENEN\1\NAVBAR\NAVBAR_PROJECT\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Code/Flutter/oefenen/1/navbar/navbar_project/windows -BC:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64 --check-stamp-file C:/Code/Flutter/oefenen/1/navbar/navbar_project/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
